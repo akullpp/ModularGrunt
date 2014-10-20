@@ -1,0 +1,9 @@
+{
+  "name": "ModularGrunt",
+  "description": "A modular Grunt configuration",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.7.0",
+    "load-grunt-config": "^0.14.0"
+  }
+}
